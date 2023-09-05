@@ -1,3 +1,3 @@
-#!/bin/bnsh
+#!/bin/bash
 tr 'N-Mn' 'A-MN-Zn-zn-m'
 
